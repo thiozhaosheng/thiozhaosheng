@@ -17,8 +17,6 @@ I've committed to a personal goal of mastering coding within a year, and I'm doc
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/travisthio/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.twitch.tv/beefbebe/">
-  <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/></a>
 </div>
 
 
