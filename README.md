@@ -4,13 +4,6 @@
 
 I am an aspiring web developer who enjoys working with HTML, CSS, Python, and JavaScript.
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiozhaosheng&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages I'm current working on.</small>
-  <br />
-  <br />
-</div>
 
 I've committed to a personal goal of mastering coding within a year, and I'm documenting my journey here with the hope of inspiring aspiring programmers.
 
